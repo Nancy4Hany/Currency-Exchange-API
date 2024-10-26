@@ -15,7 +15,7 @@ A Node.js API for converting currency values to multiple target currencies with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/currency-exchange-api.git
+   git clone https://github.com/Nancy4Hany/Currency-Exchange-API
    cd currency-exchange-api
    ```
 
