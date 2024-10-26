@@ -34,6 +34,14 @@ A Node.js API for converting currency values to multiple target currencies with 
    ```bash
    npm start
    ```
+   You can also use docker: 
+   ```bash
+   docker-compose up --build 
+   ```
+ 5. Test:
+   ```bash
+   npm test
+   ```
 
 ## Usage
 
