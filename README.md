@@ -1,7 +1,7 @@
 
 # Currency Exchange API
 
-A Node.js API for converting currency values to multiple target currencies with caching and rate limiting.
+A Node.js API for currency conversion with caching and rate limiting.
 
 ## Table of Contents
 - [Installation](#installation)
