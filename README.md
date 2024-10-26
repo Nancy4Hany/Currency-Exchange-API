@@ -9,7 +9,6 @@ A Node.js API for converting currency values to multiple target currencies with 
 - [API Endpoints](#api-endpoints)
 - [Environment Variables](#environment-variables)
 - [Error Codes](#error-codes)
-- [License](#license)
 
 ## Installation
 
@@ -117,6 +116,4 @@ curl -X POST http://localhost:3000/api/exchange   -H "Content-Type: application/
 - **429**: Too many requests - Rate limit exceeded.
 - **500**: Internal server error.
 
-## License
 
-This project is licensed under the MIT License.
