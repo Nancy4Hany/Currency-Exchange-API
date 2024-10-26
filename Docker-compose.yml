@@ -1,0 +1,9 @@
+
+services:
+  currency-api:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - APY_TOKEN=${APY_TOKEN}
